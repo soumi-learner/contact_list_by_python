@@ -5,7 +5,6 @@ while True:
     print( "2: List People" )
     print( "3: Search Person" )
     print( "4: Delete Person" )
-    print( "5: Quit" )
     print( "================" )
     print( "\n" )
     sel = input( "Pick One: " )
